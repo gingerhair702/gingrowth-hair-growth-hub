@@ -1,0 +1,269 @@
+{
+  "siteName": "Gingrowth Link Hub",
+  "siteUrl": "",
+  "homepage": "https://gingrowth.com/",
+  "updatedAt": "2026-04-22",
+  "description": "Products, collections, and blog drafts in one hub.",
+  "products": [
+    {
+      "title": "Ginger Hair Growth Serum 40ml",
+      "url": "https://gingrowth.com/products/ginger-hair-growth-serum-40ml",
+      "handle": "ginger-hair-growth-serum-40ml",
+      "category": "Hair growth / thinning hair",
+      "description": "Targeted root support serum."
+    },
+    {
+      "title": "Hair Growth Serum Essence",
+      "url": "https://gingrowth.com/products/hair-growth-serum-essence",
+      "handle": "hair-growth-serum-essence",
+      "category": "Hair growth / thinning hair",
+      "description": "Lightweight serum essence for daily support."
+    },
+    {
+      "title": "Rosemary Ginger Hair Growth Spray",
+      "url": "https://gingrowth.com/products/rosemary-ginger-hair-growth-spray",
+      "handle": "rosemary-ginger-hair-growth-spray",
+      "category": "Hair growth / thinning hair",
+      "description": "Daily root support spray for easy coverage."
+    },
+    {
+      "title": "Ginger Hair Growth Spray",
+      "url": "https://gingrowth.com/products/ginger-hair-growth-spray",
+      "handle": "ginger-hair-growth-spray",
+      "category": "Hair growth / thinning hair",
+      "description": "Daily root support spray."
+    },
+    {
+      "title": "Ginger Hair Growth Spray 50ml",
+      "url": "https://gingrowth.com/products/ginger-hair-growth-spray-50ml",
+      "handle": "ginger-hair-growth-spray-50ml",
+      "category": "Hair growth / thinning hair",
+      "description": "Travel-size spray for daily use."
+    },
+    {
+      "title": "Ginger Hair Growth Oil",
+      "url": "https://gingrowth.com/products/ginger-hair-growth-oil",
+      "handle": "ginger-hair-growth-oil",
+      "category": "Hair growth / thinning hair",
+      "description": "Hair growth oil for supportive routine use."
+    },
+    {
+      "title": "Ginger Thinning Hair Shampoo Soap",
+      "url": "https://gingrowth.com/products/ginger-thinning-hair-shampoo-soap",
+      "handle": "ginger-thinning-hair-shampoo-soap",
+      "category": "Hair growth / thinning hair",
+      "description": "Wash-day reset shampoo soap."
+    },
+
+    {
+      "title": "Ginger Scalp Care Shampoo",
+      "url": "https://gingrowth.com/products/ginger-scalp-care-shampoo",
+      "handle": "ginger-scalp-care-shampoo",
+      "category": "Scalp care",
+      "description": "Scalp cleansing shampoo for reset and buildup."
+    },
+    {
+      "title": "Ginger Scalp Treatment Cream",
+      "url": "https://gingrowth.com/products/ginger-scalp-treatment-cream",
+      "handle": "ginger-scalp-treatment-cream",
+      "category": "Scalp care",
+      "description": "Comfort-focused scalp treatment cream."
+    },
+    {
+      "title": "Ginger Scalp Serum",
+      "url": "https://gingrowth.com/products/ginger-scalp-serum",
+      "handle": "ginger-scalp-serum",
+      "category": "Scalp care",
+      "description": "Lightweight scalp serum for daily support."
+    },
+
+    {
+      "title": "Ginger Conditioner Dry Damaged Hair",
+      "url": "https://gingrowth.com/products/ginger-conditioner-dry-damaged-hair",
+      "handle": "ginger-conditioner-dry-damaged-hair",
+      "category": "Dry / damaged hair",
+      "description": "Conditioner for dry and damaged lengths."
+    },
+    {
+      "title": "Rosemary Ginger Conditioner Dry Damaged Hair",
+      "url": "https://gingrowth.com/products/rosemary-ginger-conditioner-dry-damaged-hair",
+      "handle": "rosemary-ginger-conditioner-dry-damaged-hair",
+      "category": "Dry / damaged hair",
+      "description": "Conditioner for dry and damaged hair."
+    },
+    {
+      "title": "Ginger Repair Shampoo",
+      "url": "https://gingrowth.com/products/ginger-repair-shampoo",
+      "handle": "ginger-repair-shampoo",
+      "category": "Dry / damaged hair",
+      "description": "Repair shampoo for dry or damaged hair."
+    },
+    {
+      "title": "Rosemary Ginger Shampoo Dry Damaged Hair",
+      "url": "https://gingrowth.com/products/rosemary-ginger-shampoo-dry-damaged-hair",
+      "handle": "rosemary-ginger-shampoo-dry-damaged-hair",
+      "category": "Dry / damaged hair",
+      "description": "Shampoo for dry and damaged hair."
+    },
+    {
+      "title": "Ginger Hair Oil Dry Hair",
+      "url": "https://gingrowth.com/products/ginger-hair-oil-dry-hair",
+      "handle": "ginger-hair-oil-dry-hair",
+      "category": "Dry / damaged hair",
+      "description": "Hair oil for dry hair lengths."
+    },
+    {
+      "title": "Rosemary Ginger Hair Oil Dry Frizzy Hair",
+      "url": "https://gingrowth.com/products/rosemary-ginger-hair-oil-dry-frizzy-hair",
+      "handle": "rosemary-ginger-hair-oil-dry-frizzy-hair",
+      "category": "Dry / damaged hair",
+      "description": "Hair oil for dry, frizzy hair."
+    },
+
+    {
+      "title": "Ginger Black Hair Conditioner",
+      "url": "https://gingrowth.com/products/ginger-black-hair-conditioner",
+      "handle": "ginger-black-hair-conditioner",
+      "category": "Gray / appearance support",
+      "description": "Conditioner for black hair appearance support."
+    },
+    {
+      "title": "Ginger Black Hair Shampoo Soap",
+      "url": "https://gingrowth.com/products/ginger-black-hair-shampoo-soap",
+      "handle": "ginger-black-hair-shampoo-soap",
+      "category": "Gray / appearance support",
+      "description": "Shampoo soap for black hair appearance support."
+    },
+    {
+      "title": "Ginger Hair Spray",
+      "url": "https://gingrowth.com/products/ginger-hair-spray",
+      "handle": "ginger-hair-spray",
+      "category": "Additional",
+      "description": "Additional product link found live."
+    }
+  ],
+  "collections": [
+    {
+      "title": "Hair Growth Products",
+      "url": "https://gingrowth.com/collections/hair-growth-products",
+      "handle": "hair-growth-products",
+      "category": "Core collections"
+    },
+    {
+      "title": "Scalp Care",
+      "url": "https://gingrowth.com/collections/scalp-care",
+      "handle": "scalp-care",
+      "category": "Core collections"
+    },
+    {
+      "title": "Dry & Damaged Hair",
+      "url": "https://gingrowth.com/collections/dry-damaged-hair",
+      "handle": "dry-damaged-hair",
+      "category": "Core collections"
+    },
+    {
+      "title": "Gray Hair Care",
+      "url": "https://gingrowth.com/collections/gray-hair-care",
+      "handle": "gray-hair-care",
+      "category": "Core collections"
+    },
+
+    {
+      "title": "Rosemary Ginger",
+      "url": "https://gingrowth.com/collections/rosemary-ginger",
+      "handle": "rosemary-ginger",
+      "category": "Support / type collections"
+    },
+    {
+      "title": "Ginger Hair Care",
+      "url": "https://gingrowth.com/collections/ginger-hair-care",
+      "handle": "ginger-hair-care",
+      "category": "Support / type collections"
+    },
+    {
+      "title": "Hair Growth Serum",
+      "url": "https://gingrowth.com/collections/hair-growth-serum",
+      "handle": "hair-growth-serum",
+      "category": "Support / type collections"
+    },
+    {
+      "title": "Hair Growth Spray",
+      "url": "https://gingrowth.com/collections/hair-growth-spray",
+      "handle": "hair-growth-spray",
+      "category": "Support / type collections"
+    },
+    {
+      "title": "Hair Growth Oil",
+      "url": "https://gingrowth.com/collections/hair-growth-oil",
+      "handle": "hair-growth-oil",
+      "category": "Support / type collections"
+    },
+    {
+      "title": "Hair Growth Soap",
+      "url": "https://gingrowth.com/collections/hair-growth-soap",
+      "handle": "hair-growth-soap",
+      "category": "Support / type collections"
+    },
+    {
+      "title": "Hair Growth Shampoo",
+      "url": "https://gingrowth.com/collections/hair-growth-shampoo",
+      "handle": "hair-growth-shampoo",
+      "category": "Support / type collections"
+    },
+
+    {
+      "title": "All Products",
+      "url": "https://gingrowth.com/collections/all",
+      "handle": "all",
+      "category": "Other"
+    },
+    {
+      "title": "New In",
+      "url": "https://gingrowth.com/collections/new-in",
+      "handle": "new-in",
+      "category": "Other"
+    }
+  ],
+  "blogs": [
+    {
+      "title": "Best Routine for Thinning Hair: A Simple 3-Step Plan That Feels Lightweight",
+      "url": "blog-01-best-routine-for-thinning-hair.md",
+      "handle": "best-routine-for-thinning-hair",
+      "category": "Thinning hair hub",
+      "tags": ["Thinning Hair", "Hair Routine", "Scalp Care", "Hair Growth Products"],
+      "description": "A simple 3-step routine for thinning hair that keeps the scalp cleaner, supports roots, and stays lightweight between wash days."
+    },
+    {
+      "title": "Thinning Hair Routine Guide: What to Use on Wash Day, Daily, and Between Washes",
+      "url": "blog-02-thinning-hair-routine-guide.md",
+      "handle": "thinning-hair-routine-guide",
+      "category": "Thinning hair hub",
+      "tags": ["Thinning Hair", "Hair Routine", "Scalp Care", "Hair Growth Products"],
+      "description": "Breaks a thinning hair routine into wash day, daily support, and between-wash care to keep it repeatable and light."
+    },
+    {
+      "title": "Scalp Care for Thinning Hair: Why Root Support Starts at the Scalp",
+      "url": "blog-03-scalp-care-for-thinning-hair.md",
+      "handle": "scalp-care-for-thinning-hair",
+      "category": "Thinning hair support",
+      "tags": ["Scalp Care", "Thinning Hair", "Hair Routine", "Scalp Treatment"],
+      "description": "Explains why scalp condition affects flat roots and product weight, and how a scalp-first routine stabilizes support."
+    },
+    {
+      "title": "Hair Growth Spray vs Serum: Which Is Better for Thinning Hair?",
+      "url": "blog-04-hair-growth-spray-vs-serum-for-thinning-hair.md",
+      "handle": "hair-growth-spray-vs-serum-for-thinning-hair",
+      "category": "Thinning hair decisions",
+      "tags": ["Thinning Hair", "Hair Growth Spray", "Hair Growth Serum", "Hair Routine"],
+      "description": "When a spray feels lighter and easier to repeat vs when a serum feels more targeted, plus a simple decision framework."
+    },
+    {
+      "title": "Why Thinning Hair Often Needs Scalp Care First",
+      "url": "blog-05-why-thinning-hair-needs-scalp-care-first.md",
+      "handle": "why-thinning-hair-needs-scalp-care-first",
+      "category": "Thinning hair support",
+      "tags": ["Thinning Hair", "Scalp Care", "Scalp Buildup", "Hair Routine"],
+      "description": "Why scalp condition changes how thinning hair looks and why a scalp-first structure often makes support usable again."
+    }
+  ]
+}

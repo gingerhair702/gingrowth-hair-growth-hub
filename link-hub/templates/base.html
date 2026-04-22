@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{title}}</title>
+  <meta name="description" content="{{description}}" />
+  <link rel="stylesheet" href="{{assetBase}}assets/styles.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="topbar">
+      <div class="brand">
+        <h1>{{siteName}}</h1>
+        <p>{{siteDescription}}</p>
+      </div>
+      <div class="pills">
+        <a class="pill" href="{{assetBase}}index.html"><strong>Home</strong></a>
+        <a class="pill" href="{{assetBase}}products/"><strong>Products</strong></a>
+        <a class="pill" href="{{assetBase}}collections/"><strong>Collections</strong></a>
+        <a class="pill" href="{{assetBase}}blogs/"><strong>Blogs</strong></a>
+        <a class="pill" href="{{homepage}}" target="_blank" rel="noopener noreferrer"><strong>Shop</strong> ↗</a>
+      </div>
+    </div>
+
+    {{body}}
+
+    <div class="footer">
+      <div class="small">Updated: {{updatedAt}}</div>
+      <div class="small">Data-driven. Edit <span class="kbd">link-hub/data/site.json</span>.</div>
+    </div>
+  </div>
+  <script src="{{assetBase}}assets/app.js"></script>
+</body>
+</html>
