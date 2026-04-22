@@ -227,7 +227,7 @@
   "blogs": [
     {
       "title": "Best Routine for Thinning Hair: A Simple 3-Step Plan That Feels Lightweight",
-      "url": "blog-01-best-routine-for-thinning-hair.md",
+      "url": "https://gingrowth.com/blogs/hair-care/best-routine-for-thinning-hair",
       "handle": "best-routine-for-thinning-hair",
       "category": "Thinning hair hub",
       "tags": ["Thinning Hair", "Hair Routine", "Scalp Care", "Hair Growth Products"],
@@ -235,35 +235,11 @@
     },
     {
       "title": "Thinning Hair Routine Guide: What to Use on Wash Day, Daily, and Between Washes",
-      "url": "blog-02-thinning-hair-routine-guide.md",
+      "url": "https://gingrowth.com/blogs/hair-care/thinning-hair-routine-guide",
       "handle": "thinning-hair-routine-guide",
       "category": "Thinning hair hub",
       "tags": ["Thinning Hair", "Hair Routine", "Scalp Care", "Hair Growth Products"],
       "description": "Breaks a thinning hair routine into wash day, daily support, and between-wash care to keep it repeatable and light."
-    },
-    {
-      "title": "Scalp Care for Thinning Hair: Why Root Support Starts at the Scalp",
-      "url": "blog-03-scalp-care-for-thinning-hair.md",
-      "handle": "scalp-care-for-thinning-hair",
-      "category": "Thinning hair support",
-      "tags": ["Scalp Care", "Thinning Hair", "Hair Routine", "Scalp Treatment"],
-      "description": "Explains why scalp condition affects flat roots and product weight, and how a scalp-first routine stabilizes support."
-    },
-    {
-      "title": "Hair Growth Spray vs Serum: Which Is Better for Thinning Hair?",
-      "url": "blog-04-hair-growth-spray-vs-serum-for-thinning-hair.md",
-      "handle": "hair-growth-spray-vs-serum-for-thinning-hair",
-      "category": "Thinning hair decisions",
-      "tags": ["Thinning Hair", "Hair Growth Spray", "Hair Growth Serum", "Hair Routine"],
-      "description": "When a spray feels lighter and easier to repeat vs when a serum feels more targeted, plus a simple decision framework."
-    },
-    {
-      "title": "Why Thinning Hair Often Needs Scalp Care First",
-      "url": "blog-05-why-thinning-hair-needs-scalp-care-first.md",
-      "handle": "why-thinning-hair-needs-scalp-care-first",
-      "category": "Thinning hair support",
-      "tags": ["Thinning Hair", "Scalp Care", "Scalp Buildup", "Hair Routine"],
-      "description": "Why scalp condition changes how thinning hair looks and why a scalp-first structure often makes support usable again."
     }
   ]
 }
